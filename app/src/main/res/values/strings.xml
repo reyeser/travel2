@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">travel</string>
+    <string-array name="cities">
+        <item> "Chicago"  </item>
+        <item> "New York" </item>
+        <item> "Washington DC" </item>
+
+    </string-array>
+
+</resources>
